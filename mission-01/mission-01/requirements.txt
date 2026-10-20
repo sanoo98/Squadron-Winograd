@@ -1,0 +1,4 @@
+# The engine itself uses only the Python standard library (3.10+).
+# These are for the test runner and the notebook:
+pytest>=8
+jupyter>=1.0

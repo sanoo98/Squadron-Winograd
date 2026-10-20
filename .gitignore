@@ -1,0 +1,16 @@
+# Secrets: API keys live only in local .env files
+.env
+.env.*
+!.env.example
+
+# Archives (may contain .env)
+*.7z
+*.zip
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
