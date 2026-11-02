@@ -1,0 +1,6 @@
+torch>=2.4.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+pytest>=9.0.0
+nbformat>=5.9.0
+ipykernel>=6.29.0
